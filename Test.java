@@ -8,6 +8,8 @@ public class test
             for (int i = 0 ; i < 10 ; i++)
             {
                 System.out.println("Value is from newVersion Branch" + i );
+                System.out.println("From new Commit" + i );
+                
             }
     }
 
